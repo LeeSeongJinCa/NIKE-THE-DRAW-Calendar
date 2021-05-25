@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/NIKE-THE-DRAW-Calendar/static/js/main.1ed89402.chunk.js",
-    "main.js.map": "/NIKE-THE-DRAW-Calendar/static/js/main.1ed89402.chunk.js.map",
+    "main.js": "/NIKE-THE-DRAW-Calendar/static/js/main.86c57937.chunk.js",
+    "main.js.map": "/NIKE-THE-DRAW-Calendar/static/js/main.86c57937.chunk.js.map",
     "runtime-main.js": "/NIKE-THE-DRAW-Calendar/static/js/runtime-main.199dfe51.js",
     "runtime-main.js.map": "/NIKE-THE-DRAW-Calendar/static/js/runtime-main.199dfe51.js.map",
     "static/js/2.889ec70b.chunk.js": "/NIKE-THE-DRAW-Calendar/static/js/2.889ec70b.chunk.js",
     "static/js/2.889ec70b.chunk.js.map": "/NIKE-THE-DRAW-Calendar/static/js/2.889ec70b.chunk.js.map",
     "index.html": "/NIKE-THE-DRAW-Calendar/index.html",
-    "precache-manifest.bc7294a37d5f57c901ae1af95562ef2c.js": "/NIKE-THE-DRAW-Calendar/precache-manifest.bc7294a37d5f57c901ae1af95562ef2c.js",
+    "precache-manifest.22ddb0c82acb886a90d5a643cea308ca.js": "/NIKE-THE-DRAW-Calendar/precache-manifest.22ddb0c82acb886a90d5a643cea308ca.js",
     "service-worker.js": "/NIKE-THE-DRAW-Calendar/service-worker.js",
     "static/js/2.889ec70b.chunk.js.LICENSE.txt": "/NIKE-THE-DRAW-Calendar/static/js/2.889ec70b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.199dfe51.js",
     "static/js/2.889ec70b.chunk.js",
-    "static/js/main.1ed89402.chunk.js"
+    "static/js/main.86c57937.chunk.js"
   ]
 }
